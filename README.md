@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @PJubitz96
+- 👀 I’m interested in learning JS, Python, CSS, and eventually MERN
+- 🌱 I’m currently learning JS
+- 💞️ I’m looking to collaborate on beginner projects until I become more proficient
+- 📫 How to reach me Discord: skiaelrond
